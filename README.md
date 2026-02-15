@@ -1,6 +1,6 @@
 # Netflix_Clone
 
-This was my first attempt at cloning a webiste after learning the basics of HTML, CSS & JavaScript. 
+This was my first attempt at cloning a website after learning the basics of HTML, CSS & JavaScript. 
 
 ## Functionality
 
